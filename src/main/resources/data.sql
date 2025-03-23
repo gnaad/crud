@@ -1,0 +1,5 @@
+insert into STUDENT (first_name, last_name, sex, age, email, address, full_name) values ('Hort', 'Fussie', 'M', 65, 'hfussie0@imgur.com', '99094 Southridge Plaza', 'Hort Fussie');
+insert into STUDENT (first_name, last_name, sex, age, email, address, full_name) values ('Steffen', 'Krienke', 'F', 46, 'skrienke1@cloudflare.com', '449 Arkansas Crossing', 'Steffen Krienke');
+insert into STUDENT (first_name, last_name, sex, age, email, address, full_name) values ('Chickie', 'Haimes', 'M', 28, 'chaimes2@youtube.com', '397 Valley Edge Avenue', 'Chickie Haimes');
+insert into STUDENT (first_name, last_name, sex, age, email, address, full_name) values ('Freddy', 'Stockey', 'M', 26, 'fstockey3@hc360.com', '3 La Follette Terrace', 'Freddy Stockey');
+insert into STUDENT (first_name, last_name, sex, age, email, address, full_name) values ('Shepard', 'Woolland', 'M', 56, 'swoolland4@state.tx.us', '06 Novick Way', 'Shepard Woolland');
